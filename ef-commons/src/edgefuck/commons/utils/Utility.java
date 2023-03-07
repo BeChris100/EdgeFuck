@@ -1,4 +1,4 @@
-package EdgeFuck_Commons.utils;
+package edgefuck.commons.utils;
 
 import java.io.File;
 import java.net.URISyntaxException;

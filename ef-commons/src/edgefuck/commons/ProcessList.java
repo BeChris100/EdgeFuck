@@ -1,4 +1,4 @@
-package EdgeFuck_Commons;
+package edgefuck.commons;
 
 import java.util.ArrayList;
 import java.util.List;

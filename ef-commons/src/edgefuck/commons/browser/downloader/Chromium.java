@@ -1,4 +1,4 @@
-package EdgeFuck_Commons.browser.downloader;
+package edgefuck.commons.browser.downloader;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.io.File;

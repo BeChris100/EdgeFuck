@@ -1,6 +1,6 @@
-package EdgeFuck_Commons.utils.io;
+package edgefuck.commons.utils.io;
 
-import EdgeFuck_Commons.utils.Utility;
+import edgefuck.commons.utils.Utility;
 
 import java.io.File;
 import java.io.IOException;

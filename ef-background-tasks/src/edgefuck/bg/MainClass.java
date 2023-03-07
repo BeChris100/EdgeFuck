@@ -1,4 +1,4 @@
-package com.edge_fuck_bg;
+package edgefuck.bg;
 
 public class MainClass {
 

@@ -1,4 +1,4 @@
-package EdgeFuck_Commons;
+package edgefuck.commons;
 
 import java.io.*;
 import java.net.URL;

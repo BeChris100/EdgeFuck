@@ -1,4 +1,4 @@
-package EdgeFuck_Commons.utils;
+package edgefuck.commons.utils;
 
 public enum OperatingSystem {
 

@@ -1,4 +1,4 @@
-package EdgeFuck_Commons.browser;
+package edgefuck.commons.browser;
 
 public enum BrowserCommonName {
 
